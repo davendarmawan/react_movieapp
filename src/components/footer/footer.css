@@ -1,0 +1,30 @@
+.footer {
+    font-weight: bold;
+    padding: 10px 15px;
+    background-color: #7096C4;
+    width: auto;
+    color: white;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.footer > img {
+    width: 220px;
+    height: 20px;
+}
+
+.power {
+    font-size: 0.8em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.power > img {
+    width: 100px;
+    height: 20px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
