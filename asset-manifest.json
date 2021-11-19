@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react_movieapp/static/css/main.84a6b6c6.chunk.css",
+    "main.js": "/react_movieapp/static/js/main.f378274a.chunk.js",
+    "main.js.map": "/react_movieapp/static/js/main.f378274a.chunk.js.map",
+    "runtime-main.js": "/react_movieapp/static/js/runtime-main.d6351222.js",
+    "runtime-main.js.map": "/react_movieapp/static/js/runtime-main.d6351222.js.map",
+    "static/js/2.3b515806.chunk.js": "/react_movieapp/static/js/2.3b515806.chunk.js",
+    "static/js/2.3b515806.chunk.js.map": "/react_movieapp/static/js/2.3b515806.chunk.js.map",
+    "static/js/3.049c18f7.chunk.js": "/react_movieapp/static/js/3.049c18f7.chunk.js",
+    "static/js/3.049c18f7.chunk.js.map": "/react_movieapp/static/js/3.049c18f7.chunk.js.map",
+    "index.html": "/react_movieapp/index.html",
+    "static/css/main.84a6b6c6.chunk.css.map": "/react_movieapp/static/css/main.84a6b6c6.chunk.css.map",
+    "static/js/2.3b515806.chunk.js.LICENSE.txt": "/react_movieapp/static/js/2.3b515806.chunk.js.LICENSE.txt",
+    "static/media/favicon.c8ee0f85.png": "/react_movieapp/static/media/favicon.c8ee0f85.png",
+    "static/media/love.acccb630.png": "/react_movieapp/static/media/love.acccb630.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6351222.js",
+    "static/js/2.3b515806.chunk.js",
+    "static/css/main.84a6b6c6.chunk.css",
+    "static/js/main.f378274a.chunk.js"
+  ]
+}
